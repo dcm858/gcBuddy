@@ -25,10 +25,6 @@ img{
     flex-wrap: wrap;
 }
 
-/*.jumbotron-heading {
-  font-weight: 300;
-}*/
-
 .jumbotron .container {
   max-width: 40rem;
   background: rgba(230,255,204,0.80);
@@ -207,8 +203,7 @@ body {
      font-style: normal;
      font-weight:400;
      color:#00802b;
-     padding-left:3rem; */
-   /*  padding-right:1.5rem; */
+     padding-left:3rem; 
      padding-top:1rem;
      padding-bottom:.75rem;
 }
@@ -243,7 +238,6 @@ ul {
 }
 
 .new-opt .col-sm-6 .img{
- /* padding-top:.15rem; */
  padding-bottom:.25rem;
 } 
 
@@ -269,7 +263,6 @@ ul {
 
 @media (min-width: 544px){
    .how .card {
-    /* float: left; */
     width: 33.333%;
     padding: .15rem;
     margin-bottom: 2rem;
@@ -321,10 +314,6 @@ ul {
     background-color: #ffd480;
     max-width: 100%
 }  
- 
-/* .contact .p{
-    margin-left:10rem;
-}*/
 
 .signup .container{
   background-color:#ffeb99;
@@ -332,7 +321,6 @@ ul {
 }
 
 .signup .h10{
-  /* float:right; */
   margin-left:2rem;
 }
 .signup .card .p{

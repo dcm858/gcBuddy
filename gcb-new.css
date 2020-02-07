@@ -42,7 +42,7 @@ img{
     font-weight:500;
 }
 
-  @import ("use.typekit.net/tfq0qnt.css");
+  @import url("https://use.typekit.net/tfq0qnt.css");
 
 h1 {
     font-family:"hobeaux-rococeaux-sherman","Arial-Black";
